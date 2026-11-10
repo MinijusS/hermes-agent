@@ -1,0 +1,6 @@
+name: hostinger-provider
+kind: model-provider
+version: 1.0.0
+description: Hostinger AI Router
+homepage: https://www.hostinger.com/ai-router
+author: Nous Research
